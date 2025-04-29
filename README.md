@@ -65,3 +65,18 @@ python scripts/05_predictive_modeling.py
 python scripts/06_model_interpretation_visualization.py
 ```
 
+## Requirements
+
+- Python 3.8+
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- joblib
+
+## Acknowledgments
+
+dataset name: College Enrollment Data 2025 Extract  
+dataset author: Sahir Maharaj  
+dataset source: https://www.kaggle.com/datasets/sahirmaharajj/college-enrollment-data-2025-extract
+
