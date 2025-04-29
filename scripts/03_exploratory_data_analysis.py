@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
-import numpy as np
 
 def load_cleaned_data(path):
     return pd.read_csv(path)
